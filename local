@@ -1,0 +1,23 @@
+local lua = script.parent
+
+--[[
+local is local to the user
+in a sense if a jumpscare happens it is generally local to that player
+meaning that only that player who triggered the jumpscare gets it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--]]
+
+i
